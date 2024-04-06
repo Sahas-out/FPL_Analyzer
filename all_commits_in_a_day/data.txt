@@ -1,0 +1,27 @@
+Different things we intend to show for a player
+
+Name: The name of the football player.
+Pos: Position of the player (e.g., GK for goalkeeper, DEF for defender, MID for midfielder, FWD for forward).
+Team: The team the player is currently playing for.
+Inj: Injury status of the player (possibly indicating whether the player is injured or not).
+Prc: Percentage (perhaps indicating the likelihood or probability of something, though without context it's unclear).
+Form: The current form of the player, which could be represented as a numerical value or a qualitative assessment (e.g., good form, bad form).
+Pts: Points earned by the player (likely fantasy football points).
+St: Total number of starts (matches where the player was in the starting lineup).
+Mp: Total minutes played.
+Gs: Goals scored by the player.
+A: Assists made by the player.
+xG: Expected goals (a statistical measure of the quality of goal-scoring opportunities created or taken by a player).
+xA: Expected assists (similar to xG, but for assists).
+xGI: Expected goal involvement (the sum of a player's expected goals and expected assists).
+CS: Clean sheets (for defenders and goalkeepers, indicating matches where the team did not concede any goals).
+GC: Goals conceded (for goalkeepers or defenders).
+xGC: Expected goals conceded.
+OG: Own goals scored by the player.
+PS: Penalties saved by the goalkeeper.
+PM: Penalties missed by the player (likely referring to penalties missed in shooting situations).
+YC: Yellow cards received by the player.
+RC: Red cards received by the player.
+S: Shots taken by the player.
+BP: Bonus points awarded to the player in fantasy football.
+BPS: Bonus points system (a system used in fantasy football to award bonus points based on player performance).
