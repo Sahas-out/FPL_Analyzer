@@ -1,0 +1,39 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+9,1,13/08/2023 16:30,Stamford Bridge,Chelsea,Liverpool,1 - 1
+19,2,20/08/2023 16:30,London Stadium,West Ham,Chelsea,3 - 1
+26,3,25/08/2023 20:00,Stamford Bridge,Chelsea,Luton,3 - 0
+35,4,02/09/2023 15:00,Stamford Bridge,Chelsea,Nottingham Forest,0 - 1
+42,5,17/09/2023 14:00,Vitality Stadium,Bournemouth,Chelsea,0 - 0
+55,6,24/09/2023 14:00,Stamford Bridge,Chelsea,Aston Villa,0 - 1
+64,7,02/10/2023 20:00,Craven Cottage,Fulham,Chelsea,0 - 2
+73,8,07/10/2023 15:00,Turf Moor,Burnley,Chelsea,1 - 4
+84,9,21/10/2023 17:30,Stamford Bridge,Chelsea,Arsenal,2 - 2
+95,10,28/10/2023 12:30,Stamford Bridge,Chelsea,Brentford,0 - 2
+110,11,06/11/2023 20:00,Tottenham Hotspur Stadium,Spurs,Chelsea,1 - 4
+115,12,12/11/2023 16:30,Stamford Bridge,Chelsea,Man City,4 - 4
+127,13,25/11/2023 15:00,St. James' Park,Newcastle,Chelsea,4 - 1
+135,14,03/12/2023 14:00,Stamford Bridge,Chelsea,Brighton,3 - 2
+150,15,06/12/2023 20:15,Old Trafford,Man Utd,Chelsea,2 - 1
+154,16,10/12/2023 14:00,Goodison Park,Everton,Chelsea,2 - 0
+165,17,16/12/2023 15:00,Stamford Bridge,Chelsea,Sheffield Utd,2 - 0
+180,18,24/12/2023 13:00,Molineux Stadium,Wolves,Chelsea,2 - 1
+186,19,27/12/2023 19:30,Stamford Bridge,Chelsea,Crystal Palace,2 - 1
+195,20,30/12/2023 12:30,Kenilworth Road,Luton,Chelsea,2 - 3
+206,21,13/01/2024 12:30,Stamford Bridge,Chelsea,Fulham,1 - 0
+219,22,31/01/2024 20:15,Anfield,Liverpool,Chelsea,4 - 1
+226,23,04/02/2024 14:00,Stamford Bridge,Chelsea,Wolves,2 - 4
+232,24,12/02/2024 20:00,Selhurst Park,Crystal Palace,Chelsea,1 - 3
+246,25,17/02/2024 17:30,Etihad Stadium,Man City,Chelsea,1 - 1
+255,26,23/02/2024 20:00,Stamford Bridge,Chelsea,Spurs,
+261,27,02/03/2024 15:00,Gtech Community Stadium,Brentford,Chelsea,2 - 2
+275,28,11/03/2024 20:00,Stamford Bridge,Chelsea,Newcastle,3 - 2
+281,29,23/04/2024 20:00,Emirates Stadium,Arsenal,Chelsea,
+294,30,30/03/2024 15:00,Stamford Bridge,Chelsea,Burnley,2 - 2
+307,31,04/04/2024 20:15,Stamford Bridge,Chelsea,Man Utd,
+318,32,07/04/2024 17:30,Bramall Lane,Sheffield Utd,Chelsea,
+325,33,15/04/2024 20:00,Stamford Bridge,Chelsea,Everton,
+332,34,20/04/2024 15:00,Amex Stadium,Brighton,Chelsea,
+341,35,27/04/2024 20:00,Villa Park,Aston Villa,Chelsea,
+355,36,04/05/2024 15:00,Stamford Bridge,Chelsea,West Ham,
+367,37,11/05/2024 15:00,The City Ground,Nottingham Forest,Chelsea,
+375,38,19/05/2024 16:00,Stamford Bridge,Chelsea,Bournemouth,

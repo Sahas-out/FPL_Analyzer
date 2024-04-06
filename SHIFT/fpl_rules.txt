@@ -1,0 +1,23 @@
+Action	Points
+For playing up to 60 minutes	1
+For playing 60 minutes or more (excluding stoppage time)	2
+For each goal scored by a goalkeeper or defender	6
+For each goal scored by a midfielder	5
+For each goal scored by a forward	4
+For each goal assist	3
+For a clean sheet by a goalkeeper or defender	4
+For a clean sheet by a midfielder	1
+For every 3 shot saves by a goalkeeper	1
+For each penalty save	5
+For each penalty miss	-2
+Bonus points for the best players in a match	1-3
+For every 2 goals conceded by a goalkeeper or defender	-1
+For each yellow card	-1
+For each red card	-3
+For each own goal	-2
+
+
+
+
+
+
