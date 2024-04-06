@@ -1,0 +1,39 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+2,1,12/08/2023 13:00,Emirates Stadium,Arsenal,Nottingham Forest,2 - 1
+12,2,21/08/2023 20:00,Selhurst Park,Crystal Palace,Arsenal,0 - 1
+21,3,26/08/2023 15:00,Emirates Stadium,Arsenal,Fulham,2 - 2
+31,4,03/09/2023 16:30,Emirates Stadium,Arsenal,Man Utd,3 - 1
+43,5,17/09/2023 16:30,Goodison Park,Everton,Arsenal,0 - 1
+51,6,24/09/2023 14:00,Emirates Stadium,Arsenal,Spurs,2 - 2
+62,7,30/09/2023 15:00,Vitality Stadium,Bournemouth,Arsenal,0 - 4
+71,8,08/10/2023 16:30,Emirates Stadium,Arsenal,Man City,1 - 0
+84,9,21/10/2023 17:30,Stamford Bridge,Chelsea,Arsenal,2 - 2
+91,10,28/10/2023 15:00,Emirates Stadium,Arsenal,Sheffield Utd,5 - 0
+107,11,04/11/2023 17:30,St. James' Park,Newcastle,Arsenal,1 - 0
+111,12,11/11/2023 15:00,Emirates Stadium,Arsenal,Burnley,3 - 1
+121,13,25/11/2023 17:30,Gtech Community Stadium,Brentford,Arsenal,0 - 1
+131,14,02/12/2023 15:00,Emirates Stadium,Arsenal,Wolves,2 - 1
+145,15,05/12/2023 20:15,Kenilworth Road,Luton,Arsenal,3 - 4
+151,16,09/12/2023 17:30,Villa Park,Aston Villa,Arsenal,1 - 0
+161,17,17/12/2023 14:00,Emirates Stadium,Arsenal,Brighton,2 - 0
+174,18,23/12/2023 17:30,Anfield,Liverpool,Arsenal,1 - 1
+181,19,28/12/2023 20:15,Emirates Stadium,Arsenal,West Ham,0 - 2
+193,20,31/12/2023 14:00,Craven Cottage,Fulham,Arsenal,2 - 1
+201,21,20/01/2024 12:30,Emirates Stadium,Arsenal,Crystal Palace,5 - 0
+214,22,30/01/2024 19:30,The City Ground,Nottingham Forest,Arsenal,1 - 2
+221,23,04/02/2024 16:30,Emirates Stadium,Arsenal,Liverpool,3 - 1
+239,24,11/02/2024 14:00,London Stadium,West Ham,Arsenal,0 - 6
+242,25,17/02/2024 15:00,Turf Moor,Burnley,Arsenal,0 - 5
+251,26,24/02/2024 20:00,Emirates Stadium,Arsenal,Newcastle,4 - 1
+269,27,04/03/2024 20:00,Bramall Lane,Sheffield Utd,Arsenal,0 - 6
+271,28,09/03/2024 17:30,Emirates Stadium,Arsenal,Brentford,2 - 1
+281,29,23/04/2024 20:00,Emirates Stadium,Arsenal,Chelsea,
+296,30,31/03/2024 16:30,Etihad Stadium,Man City,Arsenal,0 - 0
+301,31,03/04/2024 19:30,Emirates Stadium,Arsenal,Luton,
+312,32,06/04/2024 17:30,Amex Stadium,Brighton,Arsenal,
+321,33,14/04/2024 16:30,Emirates Stadium,Arsenal,Aston Villa,
+340,34,20/04/2024 19:30,Molineux Stadium,Wolves,Arsenal,
+348,35,28/04/2024 14:00,Tottenham Hotspur Stadium,Spurs,Arsenal,
+351,36,04/05/2024 15:00,Emirates Stadium,Arsenal,Bournemouth,
+365,37,11/05/2024 15:00,Old Trafford,Man Utd,Arsenal,
+371,38,19/05/2024 16:00,Emirates Stadium,Arsenal,Everton,
