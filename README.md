@@ -75,7 +75,7 @@ We scrapped the following data using selenium from this https://www.premierleagu
   and used this https://fixturedownload.com/sport/football for extracting season's older match fixtrues.
 
 ### Analysis
-**FPL Rules for reference ** : https://fantasy.premierleague.com/help/rules 
+**FPL Rules for reference** : https://fantasy.premierleague.com/help/rules 
 #### forming predictions
 
 We used two variables, one which measures the fixture difficulty and one which accounts for this season's stats till the upcoming week.
