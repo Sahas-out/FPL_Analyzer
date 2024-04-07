@@ -129,8 +129,7 @@ So you can run it in two ways :
 
 - Currently our project can scrap live data from the site and generate the analysis and plot it but it can't display on it our website as it isn't dynamic.
   (Ps - We knew basic web only , and so focused on doing our analysis part better for now due to time constraints :| )
-
-- We plan on making our website dynamic and updating it everytime we run our code thus making it ready for implementation every game week.
+- We plan on modifying the website in such a way that it gets automatically gets updated with the new gameweek predictions and not just contain the old gameweek predictions
 
 ## Demo
 
