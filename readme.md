@@ -109,14 +109,14 @@ So you can run it in two ways :
 
 - You can run run.sh file which is a series of bash commands which run python files but as some python files take up to 10 mins to run (due to data scraping from web ) it may not be ideal
 - the other way is manually running it :(
-  - first we need to run **fpl.py to get the live data of all the players from the fpl webite and create a stats.xlsx (it would take a long long time )
-  - to create team_score.csv we first run fixture_stats.py which download 20 excel sheets and then run data_sorter.py in the fixtures folder
-  - then we need to run predictions.py to get predicted stats of the players for the next game week ( it uses files get_fixtures.py ,fdr_calculate and team_score.csv ) and create a predictions.xlsx
-  - next we need to run clean_predictions.py to clean the predictions.xlsx and create a player_expected_stats.xlsx
-  - then we can run top_players.py to get Top defenders,midifielders and attackers for the next gameweek it create respective excel sheets
-  - then we can run best-11.py to generate top 11 players of this gameweek it creates a best-11.csv
+  - first we need to run **fpl.py** to get the live data of all the players from the fpl webite and create a **stats.xlsx** (it would take a long long time )
+  - to create **team_score.csv** we first run **fixture_stats.py** which download 20 excel sheets and then run **data_sorter.py** in the fixtures folder
+  - then we need to run **predictions.py** to get predicted stats of the players for the next game week ( it uses files get_fixtures.py ,fdr_calculate and team_score.csv ) and create a **predictions.xlsx**
+  - next we need to run **clean_predictions.py** to clean the predictions.xlsx and create a **player_expected_stats.xlsx**
+  - then we can run **top_players.py** to get Top defenders,midifielders and attackers for the next gameweek it create respective excel sheets
+  - then we can run **best-11.py** to generate top 11 players of this gameweek it creates a **best-11.csv**
 
-best_11_for web and top10_for_web.py are for just creating csv files for web it scrapes player profiles images from web and put thier links into csv with the links of charts of players we hosted on Internet
+**best_11_for web** and **top10_for_web.py** are for just creating csv files for web it scrapes player profiles images from web and put thier links into csv with the links of charts of players we hosted on Internet
 
 ## Applications
 
